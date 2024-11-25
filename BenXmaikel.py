@@ -1,1 +1,0 @@
-print('Owen x Beni')
